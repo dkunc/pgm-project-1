@@ -1,4 +1,6 @@
-Przed uruchomieniem notebooków należy wywołać polecenie 
+Repozytorium zawiera zadania wykonane w ramach realizacji pierwszego projektu z przedmiotu Probabilistyczne Uczenie Maszynowe.
+
+Przed uruchomieniem notebooków należy wywołać polecenie: 
     
     `pip install -r requirements.txt`
     
