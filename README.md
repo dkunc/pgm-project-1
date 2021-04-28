@@ -2,7 +2,7 @@ Repozytorium zawiera zadania wykonane w ramach realizacji pierwszego projektu z 
 
 Przed uruchomieniem notebooków należy wywołać polecenie: 
     
-    `pip install -r requirements.txt`
+`pip install -r requirements.txt`
     
 Aby uruchomić poszczególne zeszyty należy je otworzyć i kliknąć `Kernel -> Restart & run all`
 
